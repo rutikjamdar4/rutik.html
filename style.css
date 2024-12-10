@@ -1,0 +1,22 @@
+.profile{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.text{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-body-emphasis{
+    font-family:'Parkinsans';
+}
+
+.title{
+    color: skyblue;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Merriweather';
+    font-weight: bold
+}
